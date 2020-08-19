@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: event-bus
-          image: mooping/event-bus
+          image: m00p1ng/event-bus
 ---
 apiVersion: v1
 kind: Service
