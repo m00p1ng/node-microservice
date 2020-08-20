@@ -32,7 +32,7 @@ const SignupPage = () => {
         <input type="password" className="form-control" value={password} onChange={e => setPassword(e.target.value)} />
       </div>
       {errors}
-      <button className="btn btn-primary">Sign up</button>
+      <button className="btn btn-primary">Sign Up</button>
     </form>
   )
 }
