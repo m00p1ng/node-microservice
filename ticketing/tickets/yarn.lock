@@ -470,7 +470,7 @@
 
 "@mooping/common@https://github.com/m00p1ng/ticket-common":
   version "1.0.0"
-  resolved "https://github.com/m00p1ng/ticket-common#166882855e713cbfcb0ffeaa76c9e8b9ec650aaf"
+  resolved "https://github.com/m00p1ng/ticket-common#558cff3fa500e33b2dd8a92c96037c0b7ffa460e"
   dependencies:
     "@types/cookie-session" "^2.0.41"
     "@types/express" "^4.17.7"
