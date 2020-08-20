@@ -468,9 +468,9 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@mooping/common@ssh://git@github.com/m00p1ng/ticket-common.git":
+"@mooping/common@https://github.com/m00p1ng/ticket-common":
   version "1.0.0"
-  resolved "ssh://git@github.com/m00p1ng/ticket-common.git#166882855e713cbfcb0ffeaa76c9e8b9ec650aaf"
+  resolved "https://github.com/m00p1ng/ticket-common#166882855e713cbfcb0ffeaa76c9e8b9ec650aaf"
   dependencies:
     "@types/cookie-session" "^2.0.41"
     "@types/express" "^4.17.7"
