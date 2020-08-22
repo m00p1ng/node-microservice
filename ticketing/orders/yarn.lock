@@ -469,8 +469,8 @@
     chalk "^4.0.0"
 
 "@mooping/common@https://github.com/m00p1ng/ticket-common":
-  version "1.0.2"
-  resolved "https://github.com/m00p1ng/ticket-common#7755379416f5c5af16763b2bbc7689b17883480d"
+  version "1.0.3"
+  resolved "https://github.com/m00p1ng/ticket-common#df2383a5b7c74080022fc5374abc525d45ace818"
   dependencies:
     "@types/cookie-session" "^2.0.41"
     "@types/express" "^4.17.7"
